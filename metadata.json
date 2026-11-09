@@ -1,0 +1,6 @@
+{
+  "name": "Nuttall Landscapes",
+  "description": "Professional landscaping, luxury garden transformations, and resin driveway specialists in Heywood and Greater Manchester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
